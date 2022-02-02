@@ -3,3 +3,5 @@ db:
     host: localhost
     port: 27017
     database: smart-transport
+JWT:
+  secret: LYbNiD6ZEbvsc6DONUyzbUgOWCsMPpgQ
